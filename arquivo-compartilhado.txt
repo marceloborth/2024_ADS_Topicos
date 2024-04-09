@@ -7,7 +7,7 @@
 
 
 
-Antonio Lorencini - Correto
+Antonio Lorencini - Correto - Alterado
 
 
 Marcelo Rafael Borth
@@ -22,6 +22,7 @@ jefferson rosa
 Giovani Zaffalon Fabri
 Caique Moreira
 José Vitor
+Rafael de Sá
 Marcelo Rafael Borth
 Carlos Eduardo
 Vitor Formigoni
@@ -30,17 +31,26 @@ jefferson rosa
 Vitor Formigoni
 jefferson rosa
 Giovani Zaffalon Fabri
+Lucas
+Leandrete
+Leandrete
+Leandrete
+Leandrete
+Leandrete
+Leandrete
+Leandrete
+Leandrete
+Leandrete
 
 
 
 
 
-
-Rafael de Sá
 Wagner
 Luiz Henrique Souza da Silva
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -58,3 +68,6 @@ Feito alteração neste arquivo. Excluído alguns nomes
 Feito alteração neste arquivo. Excluído alguns nomes
 >>>>>>> 8789e2da9c7a26d908833b3c742da8ca575e3cea
 >>>>>>> bcb35be831e45fdc82ae496d04412c854468358a
+=======
+Feito alteração neste arquivo. Excluído alguns nomes
+>>>>>>> 2f21206509bf11352cd413109f32803dd7b4ec8e
