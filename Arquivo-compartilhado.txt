@@ -1,7 +1,28 @@
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+José Vitor
+=======
+
+
+>>>>>>> 40217972989cdd467073fa3eb532adefb51bafff
 
 
 
 
+<<<<<<< HEAD
 Leandro Reis
+=======
+
+
+
+
+
+
+
+
+17
+>>>>>>> 0e765af5a658d7c232521e4a173be8d589c939d9
+>>>>>>> 40217972989cdd467073fa3eb532adefb51bafff
