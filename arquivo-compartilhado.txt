@@ -1,8 +1,5 @@
 
 
-<<<<<<< HEAD
-José Vitor
-=======
 
 
 
@@ -18,6 +15,5 @@ José Vitor
 
 
 17
->>>>>>> 0e765af5a658d7c232521e4a173be8d589c939d9
 
 Douglas Ryosuke Mitui
