@@ -4,19 +4,16 @@
 
 
 
-<<<<<<< HEAD
 
 
 
 Antonio Lorencini - Correto - Alterado
 
 
-=======
 GINO E GENO
 Leandro Reis
 Carlos Galera 24
 Bruno Cortonezi Lopes
->>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
 Marcelo Rafael Borth
 Antonio Lorencini
 Marcelo Rafael Borth
@@ -79,3 +76,7 @@ Feito alteração neste arquivo. Excluído alguns nomes
 Leandro Reis
 Luiz
 >>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
+
+
+
+Meu nome - Antonio
