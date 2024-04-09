@@ -18,7 +18,7 @@ jefferson rosa
 Vitor Formigoni
 jefferson rosa
 Giovani Zaffalon Fabri
-
+Douglas Ryosuke
 
 
 
@@ -29,12 +29,8 @@ Wagner
 Luiz Henrique Souza da Silva
 
 
-<<<<<<< HEAD
 
 
 
 Leandro Reis
 Luiz
-=======
-Feito alteração neste arquivo. Excluído alguns nomes
->>>>>>> 8789e2da9c7a26d908833b3c742da8ca575e3cea
