@@ -28,6 +28,7 @@ jefferson rosa
 Giovani Zaffalon Fabri
 Lucas
 
+Douglas Ryosuke
 
 
 
@@ -41,3 +42,8 @@ Feito alteração neste arquivo. Excluído alguns nomes
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ░░░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀
 ░░░░░░░░░░░░▀█▄█▄███▀░░░▀██▄█▄█▀ 
+
+
+
+Leandro Reis
+Luiz
