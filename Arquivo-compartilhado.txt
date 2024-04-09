@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 Carlos Galera
 Bruno Cortonezi Lopes
 Marcelo Rafael Borth
@@ -19,6 +12,7 @@ jefferson rosa
 Giovani Zaffalon Fabri
 Caique Moreira
 José Vitor
+Rafael de Sá
 Marcelo Rafael Borth
 Carlos Eduardo
 Vitor Formigoni
