@@ -4,12 +4,19 @@
 
 
 
+<<<<<<< HEAD
 
 
 
 Antonio Lorencini - Correto - Alterado
 
 
+=======
+GINO E GENO
+Leandro Reis
+Carlos Galera 24
+Bruno Cortonezi Lopes
+>>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
 Marcelo Rafael Borth
 Antonio Lorencini
 Marcelo Rafael Borth
@@ -22,25 +29,15 @@ jefferson rosa
 Giovani Zaffalon Fabri
 Caique Moreira
 José Vitor
-Rafael de Sá
 Marcelo Rafael Borth
-Carlos Eduardo
-Vitor Formigoni
 Gabriel Fiaux
 jefferson rosa
 Vitor Formigoni
 jefferson rosa
 Giovani Zaffalon Fabri
 Lucas
-Leandrete
-Leandrete
-Leandrete
-Leandrete
-Leandrete
-Leandrete
-Leandrete
-Leandrete
-Leandrete
+
+Douglas Ryosuke
 
 
 
@@ -63,6 +60,7 @@ Leandro Reis
 Luiz
 <<<<<<< HEAD
 Feito alteração neste arquivo. Excluído alguns nomes
+<<<<<<< HEAD
 =======
 =======
 Feito alteração neste arquivo. Excluído alguns nomes
@@ -71,3 +69,13 @@ Feito alteração neste arquivo. Excluído alguns nomes
 =======
 Feito alteração neste arquivo. Excluído alguns nomes
 >>>>>>> 2f21206509bf11352cd413109f32803dd7b4ec8e
+=======
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+░░░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀
+░░░░░░░░░░░░▀█▄█▄███▀░░░▀██▄█▄█▀ 
+
+
+
+Leandro Reis
+Luiz
+>>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
