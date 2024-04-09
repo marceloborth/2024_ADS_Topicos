@@ -1,13 +1,22 @@
+Thiago da cruz
 
 
 
 
 
+<<<<<<< HEAD
 
+
+
+Antonio Lorencini - Correto - Alterado
+
+
+=======
 GINO E GENO
 Leandro Reis
 Carlos Galera 24
 Bruno Cortonezi Lopes
+>>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
 Marcelo Rafael Borth
 Antonio Lorencini
 Marcelo Rafael Borth
@@ -38,7 +47,29 @@ Wagner
 Luiz Henrique Souza da Silva
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+>>>>>>> bcb35be831e45fdc82ae496d04412c854468358a
+
+
+
+Leandro Reis
+Luiz
+<<<<<<< HEAD
 Feito alteração neste arquivo. Excluído alguns nomes
+<<<<<<< HEAD
+=======
+=======
+Feito alteração neste arquivo. Excluído alguns nomes
+>>>>>>> 8789e2da9c7a26d908833b3c742da8ca575e3cea
+>>>>>>> bcb35be831e45fdc82ae496d04412c854468358a
+=======
+Feito alteração neste arquivo. Excluído alguns nomes
+>>>>>>> 2f21206509bf11352cd413109f32803dd7b4ec8e
+=======
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ░░░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀
 ░░░░░░░░░░░░▀█▄█▄███▀░░░▀██▄█▄█▀ 
@@ -47,3 +78,4 @@ Feito alteração neste arquivo. Excluído alguns nomes
 
 Leandro Reis
 Luiz
+>>>>>>> 02e273c2ebdccae0eb005b2a2b81fdab5004863c
