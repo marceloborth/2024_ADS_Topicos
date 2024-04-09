@@ -1,24 +1,8 @@
 
 
-<<<<<<< HEAD
-=======
-Jose Vitor
-
-
->>>>>>> ea01673f76280d58b00d858e5dfdf294018a4f70
 
 
 
 
 
-<<<<<<< HEAD
 Carlos Galera
-=======
-
-
-
-
-
-
-Douglas Ryosuke Mitui
->>>>>>> ea01673f76280d58b00d858e5dfdf294018a4f70
