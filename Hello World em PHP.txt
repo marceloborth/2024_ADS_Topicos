@@ -1,7 +1,0 @@
-<?php
-
-echo "Olá mundo";
-
-echo "-- Fim do sofrimento --";
-
-?>
