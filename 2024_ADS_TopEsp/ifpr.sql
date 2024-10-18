@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 24/04/2024 às 00:21
--- Versão do servidor: 10.4.28-MariaDB
--- Versão do PHP: 8.2.4
+-- Tempo de geração: 14/08/2024 às 01:38
+-- Versão do servidor: 10.4.32-MariaDB
+-- Versão do PHP: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -43,6 +43,30 @@ CREATE TABLE `cliente` (
   `datacadastro` datetime NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+-- --------------------------------------------------------
+
+--
+-- Estrutura para tabela `usuario`
+--
+
+CREATE TABLE `usuario` (
+  `id` int(11) NOT NULL,
+  `nome` varchar(100) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `senha` varchar(255) NOT NULL,
+  `datacadastro` datetime NOT NULL DEFAULT current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Despejando dados para a tabela `usuario`
+--
+
+INSERT INTO `usuario` (`id`, `nome`, `email`, `senha`, `datacadastro`) VALUES
+(1, 'Marcelo Borth', 'marcelo.borth@ifpr.edu.br', '123', '2024-08-06 20:32:58'),
+(2, 'Marcelo', 'marcelo@borth.com.br', '123', '2024-08-13 19:20:36'),
+(3, 'Rafael', 'rafael@ifpr.edu.br', '123', '2024-08-13 19:20:58'),
+(4, 'Borth', 'borth@borth.com.br', '123456', '2024-08-13 20:00:44');
+
 --
 -- Índices para tabelas despejadas
 --
@@ -54,6 +78,12 @@ ALTER TABLE `cliente`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Índices de tabela `usuario`
+--
+ALTER TABLE `usuario`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- AUTO_INCREMENT para tabelas despejadas
 --
 
@@ -62,6 +92,12 @@ ALTER TABLE `cliente`
 --
 ALTER TABLE `cliente`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT de tabela `usuario`
+--
+ALTER TABLE `usuario`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

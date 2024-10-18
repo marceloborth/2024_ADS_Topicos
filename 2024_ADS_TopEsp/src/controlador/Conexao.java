@@ -43,7 +43,6 @@ public class Conexao {
     public static void main(String[] args) throws Exception {
         System.out.println(Conexao.getConexao());
         System.out.println(Conexao.getConexao());
-        System.out.println(Conexao.getConexao());
     }
 
 }
