@@ -4,5 +4,5 @@ Aqui neste repositório você vai encontrar alguns projetos desenvolvidos em sal
 
 Você vai encontrar alguns projetos desenvolvidos em sala e que serão postados conforme o desenvolvimento e disponibilidade do professor.
 
-1) Projeto Desktop em JAVA. O nome do projeto é "2023_ADS_LP3_IFSis".
+1) Projeto Desktop em JAVA. O nome do projeto é "2024_ADS_LP3_IFSis".
 
